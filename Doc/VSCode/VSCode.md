@@ -16,12 +16,13 @@
 
 Скачать редактор с оффициальной страницы https://code.visualstudio.com/
 
+> в статье из шапки подробно приводится процесс установки VSC и плагинов. Рекомендую все галочки ставить ![VSC_Установка01](./VSC_Установка01.png)
 --- 
 
-## Плагины
+## Plugins
 
 Плагины можно устанавливать как из самого приложения, так и по ссылкам ниже.
-[image](VisualStudioCode/VSC_MarketPlace_GitLens.png)
+![VSC_MarketPlace_GitLens](./VSC_MarketPlace_GitLens.png)
 
 
 Джентельменский набор плагинов
