@@ -6,8 +6,8 @@ echo *.png >> .gitignore
 echo *.jpg >> .gitignore
 echo *.jpeg >> .gitignore
 echo *.dbf >> .gitignore
-REM Первый коммит для инициализации ветки, иначе hook выдает ошибку
+REM РџРµСЂРІС‹Р№ РєРѕРјРјРёС‚ РґР»СЏ РёРЅРёС†РёР°Р»РёР·Р°С†РёРё РІРµС‚РєРё, РёРЅР°С‡Рµ hook РІС‹РґР°РµС‚ РѕС€РёР±РєСѓ
 git add .gitignore
 git commit -m 'init'
-REM Установка hook'а в текущий репозиторий (добавляет файл ./.git/hooks/pre-commit)
+REM РЈСЃС‚Р°РЅРѕРІРєР° hook'Р° РІ С‚РµРєСѓС‰РёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ (РґРѕР±Р°РІР»СЏРµС‚ С„Р°Р№Р» ./.git/hooks/pre-commit)
 precommit4onec install .

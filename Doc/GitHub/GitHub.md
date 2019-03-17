@@ -14,7 +14,7 @@ https://github.com
 - запустить git-bash
 - выполнить команду `ssh-keygen -t rsa`. На вопросы по вводу фраз и паролей просто нажимаем `Enter`.
 > В итоге получим примерно такой вывод:
-![imagessh](github/ssh.png) 
+![imagessh](./ssh.png) 
 - скопировать содержимое файла `~/.ssh/id_rsa.pub` в буфер
 
 #### Установка ключа в GitHub
