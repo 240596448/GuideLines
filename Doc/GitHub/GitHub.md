@@ -22,7 +22,7 @@ https://github.com
 - нажать `New SSH key` и добавить содержимое файла
 
 
-## Полезнеое
+## Полезное
 
 Расширение `Octotree` для Chrome ([cсылка для скачивания](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc))
 
